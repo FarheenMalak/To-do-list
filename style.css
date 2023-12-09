@@ -261,7 +261,7 @@
   @media (min-width: 150px) and (max-width: 768px) {
     .container{
       background-color: rgb(17, 17, 71);
-      height: 500px;
+      height: 550px;
       width: 100%;
   }
   .mainimg{
@@ -273,7 +273,7 @@
   #todohead{
       color: rgb(235, 113, 14);
       position: absolute;
-      bottom: 18%;
+      bottom: 14%;
       right: 25%;
       font-size: 40px;
   }  
